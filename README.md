@@ -1,2 +1,1 @@
-# dockerized-web-app-roster-gh-cp-workspace
-A simple web app with Dockerized frontend, backend, and database
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
